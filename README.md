@@ -9,7 +9,7 @@ Each year, thousands of fires blaze across Africa, some of which are natural and
 
 ## Dataset
 
-The dataset used in this project is provided by the Zindi platform. It includes:
+The dataset used in this project is provided by the [Zindi platform](https://zindi.africa/competitions/predict-fire-extent/data). It includes:
 
 - `Train.csv`: The training data with features and the target variable (`burn_area`).
 - `Test.csv`: The test data for which the predictions need to be made.
