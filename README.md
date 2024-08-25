@@ -25,6 +25,6 @@ Several models were developed and evaluated in this project:
 
 ## Results
 
-The best-performing model was a stacked regressor, which combined the predictions of multiple models to improve accuracy. The final RMSE on the test set was 0.019879952 on the Zindi Leaderboard
+The best-performing model was a stacked regressor, which combined the predictions of multiple models to improve accuracy. The final RMSE on the test set was 0.019879952 on the Zindi [Leaderboard](https://zindi.africa/competitions/predict-fire-extent/leaderboard).
 
 
